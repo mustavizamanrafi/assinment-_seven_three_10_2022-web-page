@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+}
+
+
+header{
+    max-width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.logo{
+    
+    float: left; 
+    width: 20%;
+}
+.menu{
+    
+    width: 80%;
+    height: 100px;
+    float: right;
+   text-align: right;
+    
+}
+
+.menu nav a{
+    font-size: 18px;
+    color: #888;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 40px; 
+}
+
+.banner{
+    max-width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.banner img{
+    width: 100%;
+}
+section{
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+    
+}
+.about div h5{
+    color: #888;
+    float: left;
+    text-transform: uppercase;
+    
+    
+}
+.about div h1{
+    float: left;
+    width: 100%;
+    margin-top: 30px ;
+    text-align: left;
+    color: #888;
+    font-size: 30px;
+}
+.about div p{
+    float: left;
+    width: 100%;
+    margin-top: 30px ;
+    text-align: left;
+    color: #888;
+    font-size: 18px;
+}
+.about div h4{
+    float: left;
+    width: 100%;
+    margin-top: 50px;
+    color: #888;
+    font-size: 18px;
+    
+}
+
+
+
